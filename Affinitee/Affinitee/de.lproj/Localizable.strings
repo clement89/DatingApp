@@ -1,0 +1,408 @@
+/* 
+  Localizable.strings
+  Affinitee
+
+  Created by Clement Joseph on 17/06/19.
+  Copyright © 2019 Affinitee Limited. All rights reserved.
+*/
+
+
+
+/* About */
+"ABOUT" = "ÜBER";
+"ADD_LOCATION" = "ORT HINZUFÜGEN";
+/* Birthday field placeholder text */
+"BIRTHDAY_PLACEHOLDER" = "Geburtstag";
+/* Blocked */
+"BLOCKED" = "verstopft";
+/* BLOCK USER */
+"BLOCK_USER" = "BENUTZER BLOCKIEREN";
+/* Camra selection title */
+"CAMERA_TITLE" = "Kamera";
+/* Cancel button title */
+"CANCEL" = "Stornieren";
+
+/* Choose a Country */
+"CHOOSE_COUNTRY" = "Wähle ein Land";
+/* Choose a mood */
+"CHOOSE_MOOD" = "Wähle eine Stimmung";
+/* Clear chat conversation */
+"CLEAR_CONVERSATION" = "Klare Unterhaltung";
+/* {number of hobbies} in common */
+"COMMON_HABITS" = "%lu gemeinsam";
+/* Confirm */
+"CONFIRM" = "BESTÄTIGEN";
+/* Alert shown when confirm password left empty */
+"CONFIRM_PASSWORD_ALERT" = "Bitte bestätigen Sie Ihr Passwort!";
+/* Confirm Password field placeholder text */
+"CONFIRM_PASSWORD_PLACEHOLDE" = "Passwort bestätigen";
+/* Continue button title */
+"CONTINUE_BUTTON_TITLE" = "FORTSETZEN";
+/* Cooking habit low value */
+"COOKING_HABIT_LEVEL_0" = "Ich habe nicht gekocht";
+/* Cooking habit value 1 */
+"COOKING_HABIT_LEVEL_1" = "Kochen lernen";
+/* Cooking habit value 2 */
+"COOKING_HABIT_LEVEL_2" = "Manchmal";
+/* Cooking habit value 3 */
+"COOKING_HABIT_LEVEL_3" = "Probieren Sie normalerweise neue Gerichte";
+/* Cooking habit heigh value */
+"COOKING_HABIT_LEVEL_4" = "Professioneller Koch";
+/* Alert shown when country code left empty */
+"COUNTRY_CODE_ALERT" = "Bitte wählen Sie Ihr Land!";
+/* Country preference */
+"COUNTRY_PREFERENCE" = "Land";
+/* Create new account button title */
+"CREATE_ACCOUNT_TITLE" = "Ich habe noch kein Konto Hier anmelden.";
+/* Delete */
+"DELETE" = "Löschen";
+/* Delete account prompt */
+"DELETE_ACCOUNT_PROMPT" = "Möchten Sie das Konto wirklich löschen?";
+/* Delete account */
+"DELETE_ACCUNT" = "Konto löschen";
+/* Delete chat */
+"DELETE_CONVERSATION" = "Konversation löschen";
+/* Dismiss button title */
+"DISMISS" = "ENTLASSEN";
+/* Alert shown when birthday is empty */
+"DOB_ALERT" = "Bitte tragen Sie ihren Geburtstag ein!";
+/* Done button title */
+"DONE_BUTTON_TITLE" = "ERLEDIGT";
+/* Drinking habit low value */
+"DRINKING_HABIT_LEVEL_0" = "Nicht trinken";
+/* Drinking habit value 1 */
+"DRINKING_HABIT_LEVEL_1" = "Selten";
+/* Drinking habit value 2 */
+"DRINKING_HABIT_LEVEL_2" = "Gelegentlich";
+/* Drinking habit value 3 */
+"DRINKING_HABIT_LEVEL_3" = "Nur bei Anspannung";
+/* Drinking habit heigh value */
+"DRINKING_HABIT_LEVEL_4" = "Normalerweise trinken";
+/* Edit bio */
+"EDIT_BIO" = "ÜBER MICH";
+/* Edit birthday */
+"EDIT_BIRTHDAY" = "GEBURTSTAG";
+/* Edit company */
+"EDIT_COMPANY" = "UNTERNEHMEN";
+/* Edit gender */
+"EDIT_GENDER" = "ICH BIN";
+/* Edit job */
+"EDIT_JOB" = "BERUFSBEZEICHNUNG";
+/* Edit name */
+"EDIT_NAME" = "MEIN NAME";
+/* Edit relationship */
+"EDIT_RELATIONSHIP" = "BEZIEHUNGSSTATUS";
+/* Alert shown when email field left empty */
+"EMAIL_ALERT" = "Bitte geben Sie ihre E-Mail-Adresse ein!";
+/* Email login */
+"EMAIL_LOGIN" = "LOGIN MIT E-MAIL";
+/* Email field placeholder text */
+"EMAIL_PLACEHOLDE" = "Email";
+/* Title on Phone number screen */
+"ENTER_PHONE_NUMBER" = "Trage deine Telefonnummer ein";
+/* Sub title on phone number screen */
+"ENTER_PHONE_NUMBER_SUBTITLE" = "Ihre Privatsphäre hat für uns höchste Priorität. Die Telefonnummer wird nur zu Identifikationszwecken verwendet.";
+/* Verification window title */
+"ENTER_VERIFICATION_CODE" = "Bestätigungscode eingeben";
+/* FEELS LIKE SPAM */
+"FEELS_LIKE_SPAM" = "Fühlt sich wie Spam an";
+/* Affinitee has female users in above countries. */
+"FEMALE_USER_INFO" = "Affinitee hat weibliche Nutzer in den oben genannten Ländern.";
+/* Galery selection title */
+"GALERY_TITLE" = "Fotobibliothek";
+/* Alert shown when gender is empty */
+"GENDER_ALERT" = "Bitte wähle dein Geschlecht!";
+/* Gender selection Man */
+"GENDER_MAN" = "MANN";
+/* Gender selection other */
+"GENDER_OTHER" = "ANDERE";
+/* Gender preference */
+"GENDER_PREFERENCE" = "Auf der Suche nach";
+/* Gender selection Woman */
+"GENDER_WOMAN" = "FRAU";
+/* Habit update view title */
+"HABIT_UPDATE_VIEW_TITLE" = "Schließlich richten Sie Ihre Gewohnheiten ein";
+/* her */
+"HER" = "ihr";
+/* Hide my profile */
+"HIDE_PROFILE" = "Verstecke mein Profil";
+/* him */
+"HIM" = "ihm";
+/* Hobbies and habbits */
+"HOBBIES_AND_HABITS" = "HOBBIES & HABITS";
+/* INAPPROPRIATE PHOTOS */
+"INAPPROPRIATE_PHOTOS" = "INAPPROPRIATE FOTOS";
+/* Like info label */
+"LIKE_INFO_LABEL" = "%@ hat dich schon wieder gern. Jetzt können Sie mit %@ chatten!";
+/* Like info label */
+"LIKE_INFO_LABEL_1" = "Um dieses Gespräch %@ muss %@ Ihnen gefallen.!";
+/* Like info label */
+"LIKE_INFO_LABEL_2" = "%@ Ihnen schon gefallen. Jetzt können Sie mit %@ chatten!";
+/* Like info label */
+"LIKE_INFO_LABEL_3" = "Zur Wiedergabe müssen Sie %@ mögen.";
+/* Location disable info */
+"LOCATION_DISABLE_INFO" = "Wenn deaktiviert, wird Ihr Standort nicht in Ihrem Profil angezeigt.";
+/* Login button title */
+"LOGIN" = "ANMELDUNG";
+/* Login page title */
+"LOGIN_TITLE" = "Melden Sie sich mit E-Mail an";
+/* Logout */
+"LOGOUT" = "Ausloggen";
+/* Logout prompt */
+"LOGOUT_PROMPT" = "Möchten Sie sich wirklich abmelden?";
+/* Affinitee has male users in above countries. */
+"MALE_USER_INFO" = "Affinitee hat männliche Benutzer in den oben genannten Ländern.";
+/* Marijuana habit low value */
+"MARIJUANA_HABIT_LEVEL_0" = "Ich habe es nicht benutzt";
+/* Marijuana habit value 1 */
+"MARIJUANA_HABIT_LEVEL_1" = "Selten";
+/* Marijuana habit value 2 */
+"MARIJUANA_HABIT_LEVEL_2" = "Gelegentlich";
+/* Marijuana habit value 3 */
+"MARIJUANA_HABIT_LEVEL_3" = "Nur bei Anspannung";
+/* Marijuana habit heigh value */
+"MARIJUANA_HABIT_LEVEL_4" = "Regelmäßiger Benutzer";
+/* Match alert view subtitle */
+"MATCH_SUBTITLE" = "Sie mögen sich beide";
+/* Gender selection Men */
+"MEN" = "MÄNNER";
+"MODE_OF_TRAVEL" = "WAS IST IHR BEVORZUGTER REISEMODUS?";
+/* All mood */
+"MOOD_ALL" = "Alles";
+/* Bored mood */
+"MOOD_BORED" = "Gelangweilt";
+/* Mood chart */
+"MOOD_CHART" = "Stimmungsdiagramm";
+/* Showing mood chart of people in {country name} */
+"MOOD_CHART_INFO" = "Stimmungsdiagramm der Personen in %@";
+/* Depressed mood */
+"MOOD_DEPRESSED" = "Deprimiert";
+/* Energetic mood */
+"MOOD_ENERGETIC" = "Energisch";
+/* Lonely mood */
+"MOOD_LONELY" = "Einsam";
+/* Moode preference */
+"MOOD_PREFERENCE" = "Stimmung";
+/* Romantic mood */
+"MOOD_ROMANTIC" = "Romantisch";
+/* Update your mood */
+"MOOD_UPDATE" = "Aktualisieren Sie Ihre Stimmung";
+/* mood selection view subtitle */
+"MOOD_UPDATE_VIEW_SUBTITLE" = "Stimmung hilft Ihnen, perfekte Übereinstimmungen zu erhalten.";
+/* mood selection view title */
+"MOOD_UPDATE_VIEW_TITLE" = "Bitte wählen Sie Ihre Stimmung aus";
+/* Direct Messages */
+"MY_DIRECT_MESSAGES" = "Direkte Nachrichten";
+/* Who liked me */
+"MY_LIKES" = "Meine Vorlieben";
+/* Matches */
+"MY_MATCHES" = "Streichhölzer";
+/* Alert shown when Name is empty */
+"NAME_ALERT" = "Bitte geben Sie Ihren Namen ein.!";
+/* Name field placeholder text */
+"NAME_PLACEHOLDER" = "Name";
+/* New Match */
+"NEW_MATCH" = "Neues Spiel";
+/* New Message */
+"NEW_MESSAGE" = "Neue Nachricht";
+/* Next button title */
+"NEXT" = "Nächster";
+/* Alert shown when no image is chosen */
+"NO_IMAGE_ALERT" = "Bitte wählen Sie ein Profilbild.!";
+/* Alert shown when mood is empty */
+"NO_MOOD_ALERT" = "Bitte wähle eine Stimmung aus!";
+
+
+/* Open settings */
+"OPEN_SETTINGS" = "EINSTELLUNGEN ÖFFNEN";
+/* Affinitee has other users in above countries. */
+"OTHER_USER_INFO" = "Affinitee hat andere Benutzer in den oben genannten Ländern.";
+/* Party habit low value */
+"PARTY_HABIT_LEVEL_0" = "Ich mag keine Parties";
+/* Party habit value 1 */
+"PARTY_HABIT_LEVEL_1" = "Nur Familientreffen";
+/* Party habit value 2 */
+"PARTY_HABIT_LEVEL_2" = "Gelegentlich";
+/* Party habit value 3 */
+"PARTY_HABIT_LEVEL_3" = "Monatlich";
+/* Party habit heigh value */
+"PARTY_HABIT_LEVEL_4" = "Jedes Wochenende";
+/* Alert shown when password field left empty */
+"PASSWORD_ALERT" = "Bitte geben Sie Ihr Passwort ein.!";
+/* Alert shown when passwords don't match */
+"PASSWORD_MISMATCH_ALERT" = "Passwörter stimmen nicht überein.!";
+/* Password field placeholder text */
+"PASSWORD_PLACEHOLDE" = "Passwort";
+/* Phone login */
+"PHONE_LOGIN" = "LOGIN MIT TELEFONNUMMER";
+/* If disabled your phone model {phone model} will not be shown in your profile. */
+"PHONE_MODEL_DISABLE_INFO" = "Wenn diese Option deaktiviert ist, wird Ihr Telefonmodell %@ nicht in Ihrem Profil angezeigt.";
+/* Alert shown when phone number is empty */
+"PHONE_NUMBER_ALERT" = "Bitte gib deine Telefonnummer ein.!";
+/* Phone number field placeholder text */
+"PHONE_NUMBER_PLACEHOLDE" = "Telefonnummer";
+/* A verification code has benn send to {users phone number} */
+"PHONE_NUMBER_VERIFICATION_SUBTITLE" = "Ein Bestätigungscode wird an %@ gesendet.";
+/* Inappropriate photos will be removed. */
+"PHOTO_WARNING" = "Unangemessene Fotos werden entfernt.";
+/* Privacy Policy */
+"PRIVACY_POLICY" = "Datenschutz-Bestimmungen";
+/* Profile creation page subtitle */
+"PROFILE_CREATION_SUBTITLE" = "Wir möchten Sie besser kennenlernen. Machen Sie sich keine Sorgen, dass Sie das später bearbeiten können.";
+/* Profile creation page title */
+"PROFILE_CREATION_TITLE" = "Lassen Sie uns Ihr neues Profil erstellen";
+/* Phone model disable info */
+"PROFILE_DISABLE_INFO" = "Wenn aktiviert, wird Ihr Profil nicht im Kartenstapel angezeigt.";
+/* Profile image selection view info label */
+"PROFILE_IMAGE_VIEW_INFO" = "Sie können später weitere Bilder hinzufügen.";
+/* Profile image selection view subtitle */
+"PROFILE_IMAGE_VIEW_SUBTITLE" = "Es ist Zeit, dein bestes Selbst zu zeigen! Profilbild aktualisieren";
+/* Profile image selection view title */
+"PROFILE_IMAGE_VIEW_TITLE" = "Lass die Leute dich sehen!";
+/* Profile match */
+"PROFILE_MATCH" = "PROFILSPIEL";
+/* Reading habit low value */
+"READING_HABIT_LEVEL_0" = "Mag nicht";
+/* Reading habit value 1 */
+"READING_HABIT_LEVEL_1" = "Selten";
+/* Reading habit value 2 */
+"READING_HABIT_LEVEL_2" = "Nur wenn es langweilig wird";
+/* Reading habit value 3 */
+"READING_HABIT_LEVEL_3" = "Meistens";
+/* Reading habit heigh value */
+"READING_HABIT_LEVEL_4" = "Bücherwurm";
+/* Received */
+"RECEIVED" = "EMPFANGEN";
+/* Relationship status */
+"RELATIONSHIP_UPDATE" = "Beziehungsstatus";
+/* Report view title */
+"REPORT" = "BERICHT";
+/* Report {user name} */
+"REPORT_USER" = "BERICHT %@";
+/* Save button title. */
+"SAVE" = "sparen";
+/* Search preference */
+"SEARCH_PREFERENCE" = "Sucheinstellungen";
+/* Send */
+"SEND" = "SENDEN";
+/* Send message */
+"SEND_MESSAGE" = "NACHRICHT SENDEN";
+/* Settings */
+"SETTINGS" = "die Einstellungen";
+/* Show my location */
+"SHOW_LOCATION" = "Zeige meinen Standort";
+/* Show my phone model */
+"SHOW_PHONE_MODEL" = "Zeigen Sie mein Telefonmodell";
+/* Sign up button title */
+"SIGN_UP" = "ANMELDEN";
+/* Sign up page title */
+"SIGN_UP_TITLE" = "Hier anmelden";
+/* Smoking habit low value */
+"SMOKING_HABIT_LEVEL_0" = "Rauchen Sie nicht";
+/* Smoking habit value 1 */
+"SMOKING_HABIT_LEVEL_1" = "Gelegentlich";
+/* Smoking habit value 2 */
+"SMOKING_HABIT_LEVEL_2" = "Rauchen Sie nach Getränken";
+/* Smoking habit value 3 */
+"SMOKING_HABIT_LEVEL_3" = "Rauchen Sie, wenn Sie angespannt sind";
+/* Smoking habit heigh value */
+"SMOKING_HABIT_LEVEL_4" = "Normalerweise rauchen";
+/* SMS Code field placeholder text */
+"SMS_CODE_PLACEHOLDE" = "SMS-Code";
+/* Relationship status It's complecated */
+"STATUS_COMPLICATED" = "Es ist kompliziert";
+/* Relationship status Divorced */
+"STATUS_DIVORCED" = "Geschieden";
+/* Relationship status In a relationship */
+"STATUS_IN_RELATIONSHIP" = "In einer Beziehung";
+/* Relationship status Married */
+"STATUS_MARRIED" = "Verheiratet";
+/* Relationship status In an open relationship */
+"STATUS_OPEN_RELATIONSHIP" = "In einer offenen Beziehung";
+/* Relationship status Separeted */
+"STATUS_SEPARATED" = "Getrennt";
+/* Relationship status single */
+"STATUS_SINGLE" = "Single";
+/* Relationship status Widowed */
+"STATUS_WIDOWED" = "Verwitwet";
+/* Terms of Service */
+"TERMS" = "Nutzungsbedingungen";
+/* Travel habit low value */
+"TRAVEL_HABIT_LEVEL_0" = "Reisen Sie nicht gern";
+/* Travel habit value 1 */
+"TRAVEL_HABIT_LEVEL_1" = "Möchte manchmal reisen";
+/* Travel habit value 2 */
+"TRAVEL_HABIT_LEVEL_2" = "Alleine reisen";
+/* Travel habit value 3 */
+"TRAVEL_HABIT_LEVEL_3" = "Mit Freunden reisen";
+/* Travel habit heigh value */
+"TRAVEL_HABIT_LEVEL_4" = "Meistens um die Welt reisen";
+/* Travel mode */
+"TRAVEL_MODE" = "Reisemodus";
+/* I can't pay for my self */
+"TRAVEL_TYPE_0" = "Ich kann nicht für mich selbst bezahlen";
+"TRAVEL_TYPE_0_INFO" = "Das bedeutet, dass Sie Ihre Reisekosten nicht übernehmen können.";
+/* I can pay for my self */
+"TRAVEL_TYPE_1" = "Ich kann für mich selbst bezahlen";
+"TRAVEL_TYPE_1_INFO" = "Sie zahlen also nur für Ihre Reisekosten.";
+/* I can pay for both */
+"TRAVEL_TYPE_2" = "Ich kann beides bezahlen";
+"TRAVEL_TYPE_2_INFO" = "Das bedeutet, dass Sie für die Person bezahlen können, die mit Ihnen reisen möchte.";
+"TYPE_OF_TRAVELLER" = "WELCHES REISEN TYP SIND SIE?";
+/* Update button title */
+"UPDATE_BUTTON_TITLE" = "AKTUALISIEREN";
+/* Subtitle for update search preference */
+"UPDATE_PREFERENCE_SUB_TITLE" = "Tipp: Land ändern oder Stimmung ändern auf Alle";
+/* Title for update search preference */
+"UPDATE_PREFERENCE_TITLE" = "Es ist niemand um dich herum. Aktualisieren Sie Ihre Sucheinstellungen, um mehr Personen zu sehen.";
+/* Verify button title */
+"VERIFY_BUTTON_TITLE" = "ÜBERPRÜFEN";
+/* View profile */
+"VIEW_PROFILE" = "Profil anzeigen";
+/* want to visit */
+"WANT_TO_VISIT" = "WILL BESUCHEN";
+/* Welcome not to be displayed when app opens for the first time */
+"WELCOME_NOTE" = "Start \
+Ihre \
+Abenteuer";
+/* Workout habit low value */
+"WORKOUT_HABIT_LEVEL_0" = "Trainiere nicht";
+/* Workout habit value 1 */
+"WORKOUT_HABIT_LEVEL_1" = "Manchmal trainieren";
+/* Workout habit value 2 */
+"WORKOUT_HABIT_LEVEL_2" = "Normalerweise geht es ins Fitnessstudio";
+/* Workout habit value 3 */
+"WORKOUT_HABIT_LEVEL_3" = "Regelmäßig trainieren";
+/* Workout habit heigh value */
+"WORKOUT_HABIT_LEVEL_4" = "Professioneller Bodybuilder";
+
+"UNAVAILABLE" = "Nicht verfügbar";
+
+"INVITE" = "Einen Freund einladen";
+
+"LAST_SEEN" = "Zuletzt gesehen";
+
+"RECENTLY" = "neulich";
+
+"ONLINE" = "online";
+
+"DM_TITLE" = "Senden Sie eine private Nachricht an";
+
+//...........
+
+"DRINK_HABIT" = "Alkohol";
+
+"SMOKING_HABIT" = "Rauchen";
+
+"WEED_HABIT" = "Marihuana";
+
+"TRAVEL_HABIT" = "Reise";
+
+"PARTY_HABIT" = "Party";
+
+"GYM_HABIT" = "Turnhalle";
+
+"COOKING_HABIT" = "Kochen";
+
+"READING_HABIT" = "Lesung";
+

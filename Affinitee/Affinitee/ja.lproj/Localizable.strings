@@ -1,0 +1,417 @@
+/* 
+  Localizable.strings
+  Affinitee
+
+  Created by Clement Joseph on 17/06/19.
+  Copyright © 2019 Affinitee Limited. All rights reserved.
+*/
+
+
+/* About */
+"ABOUT" = "約";
+"ADD_LOCATION" = "場所を追加";
+/* Birthday field placeholder text */
+"BIRTHDAY_PLACEHOLDER" = "お誕生日";
+/* Blocked */
+"BLOCKED" = "ブロックされました";
+/* BLOCK USER */
+"BLOCK_USER" = "ユーザをブロックする";
+/* Camra selection title */
+"CAMERA_TITLE" = "カメラ";
+/* Cancel button title */
+"CANCEL" = "キャンセル";
+
+
+/* Choose a Country */
+"CHOOSE_COUNTRY" = "国を選ぶ";
+/* Choose a mood */
+"CHOOSE_MOOD" = "気分を選ぶ";
+/* Clear chat conversation */
+"CLEAR_CONVERSATION" = "会話をクリア";
+/* {number of hobbies} in common */
+"COMMON_HABITS" = "%lu共通";
+/* Confirm */
+"CONFIRM" = "確認";
+/* Alert shown when confirm password left empty */
+"CONFIRM_PASSWORD_ALERT" = "パスワードを確認してください。";
+/* Confirm Password field placeholder text */
+"CONFIRM_PASSWORD_PLACEHOLDE" = "パスワードを認証する";
+/* Continue button title */
+"CONTINUE_BUTTON_TITLE" = "持続する";
+/* Cooking habit low value */
+"COOKING_HABIT_LEVEL_0" = "私は調理していません";
+/* Cooking habit value 1 */
+"COOKING_HABIT_LEVEL_1" = "調理することを学ぶ";
+/* Cooking habit value 2 */
+"COOKING_HABIT_LEVEL_2" = "時々";
+/* Cooking habit value 3 */
+"COOKING_HABIT_LEVEL_3" = "通常新しい料理を試す";
+/* Cooking habit heigh value */
+"COOKING_HABIT_LEVEL_4" = "プロの料理人";
+/* Alert shown when country code left empty */
+"COUNTRY_CODE_ALERT" = "あなたの国を選択してください！";
+/* Country preference */
+"COUNTRY_PREFERENCE" = "国";
+/* Create new account button title */
+"CREATE_ACCOUNT_TITLE" = "アカウントを持っていませんか？ここでサインアップしてください。";
+/* Delete */
+"DELETE" = "削除する";
+/* Delete account prompt */
+"DELETE_ACCOUNT_PROMPT" = "アカウントを削除してよろしいですか？";
+/* Delete account */
+"DELETE_ACCUNT" = "アカウントを削除する";
+/* Delete chat */
+"DELETE_CONVERSATION" = "会話を削除";
+/* Dismiss button title */
+"DISMISS" = "不審";
+/* Alert shown when birthday is empty */
+"DOB_ALERT" = "誕生日を入力して下さい！";
+/* Done button title */
+"DONE_BUTTON_TITLE" = "完了";
+/* Drinking habit low value */
+"DRINKING_HABIT_LEVEL_0" = "飲まないで";
+/* Drinking habit value 1 */
+"DRINKING_HABIT_LEVEL_1" = "めったに";
+/* Drinking habit value 2 */
+"DRINKING_HABIT_LEVEL_2" = "時折";
+/* Drinking habit value 3 */
+"DRINKING_HABIT_LEVEL_3" = "緊張したときだけ";
+/* Drinking habit heigh value */
+"DRINKING_HABIT_LEVEL_4" = "通常飲む";
+/* Edit bio */
+"EDIT_BIO" = "私について";
+/* Edit birthday */
+"EDIT_BIRTHDAY" = "お誕生日";
+/* Edit company */
+"EDIT_COMPANY" = "会社";
+/* Edit gender */
+"EDIT_GENDER" = "わたし";
+/* Edit job */
+"EDIT_JOB" = "職名";
+/* Edit name */
+"EDIT_NAME" = "自分の名前";
+/* Edit relationship */
+"EDIT_RELATIONSHIP" = "関係の状況";
+/* Alert shown when email field left empty */
+"EMAIL_ALERT" = "あなたのメールアドレスを入力してください！";
+/* Email login */
+"EMAIL_LOGIN" = "メールでログイン";
+/* Email field placeholder text */
+"EMAIL_PLACEHOLDE" = "Eメール";
+/* Title on Phone number screen */
+"ENTER_PHONE_NUMBER" = "あなたの電話番号を入力してください";
+/* Sub title on phone number screen */
+"ENTER_PHONE_NUMBER_SUBTITLE" = "あなたのプライバシーは私達の最優先事項です。電話番号は識別の目的でのみ使用されます。";
+/* Verification window title */
+"ENTER_VERIFICATION_CODE" = "認証コードを入力してください";
+/* FEELS LIKE SPAM */
+"FEELS_LIKE_SPAM" = "スパムのような感じ";
+/* Affinitee has female users in above countries. */
+"FEMALE_USER_INFO" = "Affiniteeには上記の国に女性ユーザがいます。";
+/* Galery selection title */
+"GALERY_TITLE" = "フォトライブラリー";
+/* Alert shown when gender is empty */
+"GENDER_ALERT" = "性別を選んでください。";
+/* Gender selection Man */
+"GENDER_MAN" = "おとこ";
+/* Gender selection other */
+"GENDER_OTHER" = "その他の";
+/* Gender preference */
+"GENDER_PREFERENCE" = "探している";
+/* Gender selection Woman */
+"GENDER_WOMAN" = "女性";
+/* Habit update view title */
+"HABIT_UPDATE_VIEW_TITLE" = "最後に、あなたの習慣を設定します";
+/* her */
+"HER" = "彼女の";
+/* Hide my profile */
+"HIDE_PROFILE" = "自分のプロフィールを隠す";
+/* him */
+"HIM" = "彼";
+/* Hobbies and habbits */
+"HOBBIES_AND_HABITS" = "趣味と習慣";
+/* INAPPROPRIATE PHOTOS */
+"INAPPROPRIATE_PHOTOS" = "不適切な写真";
+/* Like info label */
+"LIKE_INFO_LABEL" = "%@は既にあなたを気に入っています。これで%@とチャットできます。";
+/* Like info label */
+"LIKE_INFO_LABEL_1" = "この会話を再生するには、 %@があなたを%@はずです。";
+/* Like info label */
+"LIKE_INFO_LABEL_2" = "あなたはすでに%@が好きでした。これで%@とチャットできます。";
+/* Like info label */
+"LIKE_INFO_LABEL_3" = "再生するには%@が好きです。";
+/* Location disable info */
+"LOCATION_DISABLE_INFO" = "無効にすると、あなたの現在地はあなたのプロフィールに表示されません。";
+/* Login button title */
+"LOGIN" = "ログイン";
+/* Login page title */
+"LOGIN_TITLE" = "Eメールを使ってログインする";
+/* Logout */
+"LOGOUT" = "ログアウト";
+/* Logout prompt */
+"LOGOUT_PROMPT" = "ログアウトしてよろしいですか？";
+/* Affinitee has male users in above countries. */
+"MALE_USER_INFO" = "Affiniteeは上記の国に男性ユーザーがいます。";
+/* Marijuana habit low value */
+"MARIJUANA_HABIT_LEVEL_0" = "私は使ったことがない";
+/* Marijuana habit value 1 */
+"MARIJUANA_HABIT_LEVEL_1" = "めったに";
+/* Marijuana habit value 2 */
+"MARIJUANA_HABIT_LEVEL_2" = "時折";
+/* Marijuana habit value 3 */
+"MARIJUANA_HABIT_LEVEL_3" = "緊張したときだけ";
+/* Marijuana habit heigh value */
+"MARIJUANA_HABIT_LEVEL_4" = "一般ユーザー";
+/* Match alert view subtitle */
+"MATCH_SUBTITLE" = "あなたは両方ともお互いが好きです";
+/* Gender selection Men */
+"MEN" = "男";
+"MODE_OF_TRAVEL" = "旅行のあなたの好ましいモードは何ですか";
+/* All mood */
+"MOOD_ALL" = "すべて";
+/* Bored mood */
+"MOOD_BORED" = "退屈";
+/* Mood chart */
+"MOOD_CHART" = "気分チャート";
+/* Showing mood chart of people in {country name} */
+"MOOD_CHART_INFO" = "人の気分チャートを%@";
+/* Depressed mood */
+"MOOD_DEPRESSED" = "意気消沈した";
+/* Energetic mood */
+"MOOD_ENERGETIC" = "元気";
+/* Lonely mood */
+"MOOD_LONELY" = "寂しい";
+/* Moode preference */
+"MOOD_PREFERENCE" = "気分";
+/* Romantic mood */
+"MOOD_ROMANTIC" = "ロマンチック";
+/* Update your mood */
+"MOOD_UPDATE" = "気分を更新する";
+/* mood selection view subtitle */
+"MOOD_UPDATE_VIEW_SUBTITLE" = "気分はあなたが完璧な一致を得るのを助けるでしょう。";
+/* mood selection view title */
+"MOOD_UPDATE_VIEW_TITLE" = "気分を選択してください";
+/* Direct Messages */
+"MY_DIRECT_MESSAGES" = "ダイレクトメッセージ";
+/* Who liked me */
+"MY_LIKES" = "好きなもの";
+/* Matches */
+"MY_MATCHES" = "一致する";
+/* Alert shown when Name is empty */
+"NAME_ALERT" = "あなたの名前を入力してください。";
+/* Name field placeholder text */
+"NAME_PLACEHOLDER" = "名";
+/* New Match */
+"NEW_MATCH" = "新しい試合";
+/* New Message */
+"NEW_MESSAGE" = "新しいメッセージ";
+/* Next button title */
+"NEXT" = "次";
+/* Alert shown when no image is chosen */
+"NO_IMAGE_ALERT" = "プロフィール写真を選択してください。";
+/* Alert shown when mood is empty */
+"NO_MOOD_ALERT" = "気分を選択してください！";
+
+
+/* Open settings */
+"OPEN_SETTINGS" = "設定を開く";
+/* Affinitee has other users in above countries. */
+"OTHER_USER_INFO" = "Affiniteeには上記の国の他のユーザーがいます。";
+/* Party habit low value */
+"PARTY_HABIT_LEVEL_0" = "締約国が好きではない";
+/* Party habit value 1 */
+"PARTY_HABIT_LEVEL_1" = "家族の集まりのみ";
+/* Party habit value 2 */
+"PARTY_HABIT_LEVEL_2" = "時折";
+/* Party habit value 3 */
+"PARTY_HABIT_LEVEL_3" = "月に1回";
+/* Party habit heigh value */
+"PARTY_HABIT_LEVEL_4" = "毎週末";
+/* Alert shown when password field left empty */
+"PASSWORD_ALERT" = "パスワードを入力してください。！";
+/* Alert shown when passwords don't match */
+"PASSWORD_MISMATCH_ALERT" = "パスワードが一致しません。";
+/* Password field placeholder text */
+"PASSWORD_PLACEHOLDE" = "パスワード";
+/* Phone login */
+"PHONE_LOGIN" = "電話番号でログイン";
+/* If disabled your phone model {phone model} will not be shown in your profile. */
+"PHONE_MODEL_DISABLE_INFO" = "無効にした場合、あなたの電話モデル%@はあなたのプロフィールに表示されません。";
+/* Alert shown when phone number is empty */
+"PHONE_NUMBER_ALERT" = "電話番号を入力してください。！";
+/* Phone number field placeholder text */
+"PHONE_NUMBER_PLACEHOLDE" = "電話番号";
+/* A verification code has benn send to {users phone number} */
+"PHONE_NUMBER_VERIFICATION_SUBTITLE" = "確認コードが%@送信されます";
+/* Inappropriate photos will be removed. */
+"PHOTO_WARNING" = "不適切な写真は削除されます。";
+/* Privacy Policy */
+"PRIVACY_POLICY" = "個人情報保護方針";
+/* Profile creation page subtitle */
+"PROFILE_CREATION_SUBTITLE" = "私たちはあなたをもっと知りたいのです。後で編集できることを心配しないでください。";
+/* Profile creation page title */
+"PROFILE_CREATION_TITLE" = "新しいプロフィールを作成しましょう";
+/* Phone model disable info */
+"PROFILE_DISABLE_INFO" = "有効にすると、あなたのプロフィールはカードスタックに表示されません。";
+/* Profile image selection view info label */
+"PROFILE_IMAGE_VIEW_INFO" = "後でさらに画像を追加できます。";
+/* Profile image selection view subtitle */
+"PROFILE_IMAGE_VIEW_SUBTITLE" = "それはあなたの最高の自己を見せる時が来た！プロフィール写真を更新する。";
+/* Profile image selection view title */
+"PROFILE_IMAGE_VIEW_TITLE" = "みんなに会いましょう！";
+/* Profile match */
+"PROFILE_MATCH" = "プロファイルマッチ";
+/* Reading habit low value */
+"READING_HABIT_LEVEL_0" = "好きではない";
+/* Reading habit value 1 */
+"READING_HABIT_LEVEL_1" = "めったに";
+/* Reading habit value 2 */
+"READING_HABIT_LEVEL_2" = "退屈したときだけ";
+/* Reading habit value 3 */
+"READING_HABIT_LEVEL_3" = "主に";
+/* Reading habit heigh value */
+"READING_HABIT_LEVEL_4" = "ブックワーム";
+/* Received */
+"RECEIVED" = "受け取った";
+/* Relationship status */
+"RELATIONSHIP_UPDATE" = "関係の状況";
+/* Report view title */
+"REPORT" = "報告書";
+/* Report {user name} */
+"REPORT_USER" = "レポート%@";
+/* Save button title. */
+"SAVE" = "保存する";
+/* Search preference */
+"SEARCH_PREFERENCE" = "検索設定";
+/* Send */
+"SEND" = "送信する";
+/* Send message */
+"SEND_MESSAGE" = "メッセージを送る";
+/* Settings */
+"SETTINGS" = "設定";
+/* Show my location */
+"SHOW_LOCATION" = "現在地を表示";
+/* Show my phone model */
+"SHOW_PHONE_MODEL" = "携帯電話のモデルを表示する";
+/* Sign up button title */
+"SIGN_UP" = "サインアップ";
+/* Sign up page title */
+"SIGN_UP_TITLE" = "ここでサインアップ";
+/* Smoking habit low value */
+"SMOKING_HABIT_LEVEL_0" = "たばこを吸わないで";
+/* Smoking habit value 1 */
+"SMOKING_HABIT_LEVEL_1" = "時折";
+/* Smoking habit value 2 */
+"SMOKING_HABIT_LEVEL_2" = "飲み物の後の煙";
+/* Smoking habit value 3 */
+"SMOKING_HABIT_LEVEL_3" = "緊張したときの喫煙";
+/* Smoking habit heigh value */
+"SMOKING_HABIT_LEVEL_4" = "通常は喫煙";
+/* SMS Code field placeholder text */
+"SMS_CODE_PLACEHOLDE" = "SMSコード";
+/* Relationship status It's complecated */
+"STATUS_COMPLICATED" = "それは複雑です";
+/* Relationship status Divorced */
+"STATUS_DIVORCED" = "離婚";
+/* Relationship status In a relationship */
+"STATUS_IN_RELATIONSHIP" = "交際中";
+/* Relationship status Married */
+"STATUS_MARRIED" = "既婚";
+/* Relationship status In an open relationship */
+"STATUS_OPEN_RELATIONSHIP" = "自由な交際中";
+/* Relationship status Separeted */
+"STATUS_SEPARATED" = "分離した";
+/* Relationship status single */
+"STATUS_SINGLE" = "シングル";
+/* Relationship status Widowed */
+"STATUS_WIDOWED" = "未亡人";
+/* Terms of Service */
+"TERMS" = "利用規約";
+/* Travel habit low value */
+"TRAVEL_HABIT_LEVEL_0" = "旅行が好きではない";
+/* Travel habit value 1 */
+"TRAVEL_HABIT_LEVEL_1" = "時々旅行が好き";
+/* Travel habit value 2 */
+"TRAVEL_HABIT_LEVEL_2" = "一人旅";
+/* Travel habit value 3 */
+"TRAVEL_HABIT_LEVEL_3" = "友達と旅行する";
+/* Travel habit heigh value */
+"TRAVEL_HABIT_LEVEL_4" = "主に世界中を旅する";
+/* Travel mode */
+"TRAVEL_MODE" = "旅行モード";
+/* I can't pay for my self */
+"TRAVEL_TYPE_0" = "私は自分のお金を払うことができません";
+"TRAVEL_TYPE_0_INFO" = "これはあなたがあなたの旅費を負担することができないことを意味します。";
+/* I can pay for my self */
+"TRAVEL_TYPE_1" = "私は自分のお金を払うことができます";
+"TRAVEL_TYPE_1_INFO" = "これはあなたがあなたの旅費だけを支払うことを意味します。";
+/* I can pay for both */
+"TRAVEL_TYPE_2" = "両方支払えます";
+"TRAVEL_TYPE_2_INFO" = "これは、あなたがあなたと一緒らせるい人のためにお金を払うことができることを意味します。";
+"TYPE_OF_TRAVELLER" = "どのタイプの旅行者があなたですか？";
+/* Update button title */
+"UPDATE_BUTTON_TITLE" = "更新";
+/* Subtitle for update search preference */
+"UPDATE_PREFERENCE_SUB_TITLE" = "ヒント：国を変更するか、ムード設定をAllに変更します";
+/* Title for update search preference */
+"UPDATE_PREFERENCE_TITLE" = "あなたの周りには誰もいません。 より多くの人を見るためにあなたの検索設定を更新してください。";
+/* Verify button title */
+"VERIFY_BUTTON_TITLE" = "検証";
+/* View profile */
+"VIEW_PROFILE" = "プロフィールを見る";
+/* want to visit */
+"WANT_TO_VISIT" = "訪問したい";
+/* Welcome not to be displayed when app opens for the first time */
+"WELCOME_NOTE" = "開始\
+きみの\
+冒険";
+/* Workout habit low value */
+"WORKOUT_HABIT_LEVEL_0" = "試してはいけない";
+/* Workout habit value 1 */
+"WORKOUT_HABIT_LEVEL_1" = "時々トレーニング";
+/* Workout habit value 2 */
+"WORKOUT_HABIT_LEVEL_2" = "通常ジムに行きます";
+/* Workout habit value 3 */
+"WORKOUT_HABIT_LEVEL_3" = "定期的にワークアウト";
+/* Workout habit heigh value */
+"WORKOUT_HABIT_LEVEL_4" = "プロのボディービルダー";
+
+"UNAVAILABLE" = "利用不可";
+
+"INVITE" = "友達を招待する";
+
+"LAST_SEEN" = "最後に見た";
+
+"RECENTLY" = "最近";
+
+"ONLINE" = "オンライン";
+
+"DM_TITLE" = "に直接メッセージを送る";
+
+//...........
+
+"DRINK_HABIT" = "リカー";
+
+"SMOKING_HABIT" = "喫煙";
+
+"WEED_HABIT" = "マリファナ";
+
+"TRAVEL_HABIT" = "旅行";
+
+"PARTY_HABIT" = "パーティー";
+
+"GYM_HABIT" = "ジム";
+
+"COOKING_HABIT" = "料理";
+
+"READING_HABIT" = "読み物";
+
+
+
+
+
+
+
+
+
+

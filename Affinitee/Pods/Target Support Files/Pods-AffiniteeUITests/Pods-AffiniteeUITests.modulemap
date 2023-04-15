@@ -1,0 +1,6 @@
+framework module Pods_AffiniteeUITests {
+  umbrella header "Pods-AffiniteeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

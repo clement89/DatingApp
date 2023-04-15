@@ -1,0 +1,407 @@
+/* 
+  Localizable.strings
+  Affinitee
+
+  Created by Clement Joseph on 17/06/19.
+  Copyright © 2019 Affinitee Limited. All rights reserved.
+*/
+
+
+/* About */
+"ABOUT" = "حول";
+"ADD_LOCATION" = "أضف الموقع";
+/* Birthday field placeholder text */
+"BIRTHDAY_PLACEHOLDER" = "عيد الميلاد";
+/* Blocked */
+"BLOCKED" = "مسدود";
+/* BLOCK USER */
+"BLOCK_USER" = "مستخدم محضور";
+/* Camra selection title */
+"CAMERA_TITLE" = "الة تصوير";
+/* Cancel button title */
+"CANCEL" = "إلغاء";
+
+/* Choose a Country */
+"CHOOSE_COUNTRY" = "اختر دولة";
+/* Choose a mood */
+"CHOOSE_MOOD" = "اختيار مزاج";
+/* Clear chat conversation */
+"CLEAR_CONVERSATION" = "محادثة واضحة";
+/* {number of hobbies} in common */
+"COMMON_HABITS" = "%lu مشترك";
+/* Confirm */
+"CONFIRM" = "تؤكد";
+/* Alert shown when confirm password left empty */
+"CONFIRM_PASSWORD_ALERT" = "يرجى التأكد من صحة كلمة المرور الخاصة بك!";
+/* Confirm Password field placeholder text */
+"CONFIRM_PASSWORD_PLACEHOLDE" = "تأكيد كلمة المرور";
+/* Continue button title */
+"CONTINUE_BUTTON_TITLE" = "استمر";
+/* Cooking habit low value */
+"COOKING_HABIT_LEVEL_0" = "أنا لم أطبخ";
+/* Cooking habit value 1 */
+"COOKING_HABIT_LEVEL_1" = "تعلم الطبخ";
+/* Cooking habit value 2 */
+"COOKING_HABIT_LEVEL_2" = "بعض الأحيان";
+/* Cooking habit value 3 */
+"COOKING_HABIT_LEVEL_3" = "عادة ما تجرب الأطباق الجديدة";
+/* Cooking habit heigh value */
+"COOKING_HABIT_LEVEL_4" = "طباخ محترف";
+/* Alert shown when country code left empty */
+"COUNTRY_CODE_ALERT" = "يرجى اختيار بلدك!";
+/* Country preference */
+"COUNTRY_PREFERENCE" = "بلد";
+/* Create new account button title */
+"CREATE_ACCOUNT_TITLE" = "ليس لديك حساب؟ سجل هنا.";
+/* Delete */
+"DELETE" = "حذف";
+/* Delete account prompt */
+"DELETE_ACCOUNT_PROMPT" = "هل أنت متأكد أنك تريد حذف الحساب؟";
+/* Delete account */
+"DELETE_ACCUNT" = "حذف الحساب";
+/* Delete chat */
+"DELETE_CONVERSATION" = "مسح المحادثة";
+/* Dismiss button title */
+"DISMISS" = "DISMISS";
+/* Alert shown when birthday is empty */
+"DOB_ALERT" = "من فضلك أدخل تاريخ ميلادك!";
+/* Done button title */
+"DONE_BUTTON_TITLE" = "فعله";
+/* Drinking habit low value */
+"DRINKING_HABIT_LEVEL_0" = "لا تشرب";
+/* Drinking habit value 1 */
+"DRINKING_HABIT_LEVEL_1" = "نادرا";
+/* Drinking habit value 2 */
+"DRINKING_HABIT_LEVEL_2" = "من حين اخر";
+/* Drinking habit value 3 */
+"DRINKING_HABIT_LEVEL_3" = "فقط عند الشد";
+/* Drinking habit heigh value */
+"DRINKING_HABIT_LEVEL_4" = "عادة شرب";
+/* Edit bio */
+"EDIT_BIO" = "عني";
+/* Edit birthday */
+"EDIT_BIRTHDAY" = "عيد الميلاد";
+/* Edit company */
+"EDIT_COMPANY" = "شركة";
+/* Edit gender */
+"EDIT_GENDER" = "انا";
+/* Edit job */
+"EDIT_JOB" = "عنوان وظيفي";
+/* Edit name */
+"EDIT_NAME" = "اسمي";
+/* Edit relationship */
+"EDIT_RELATIONSHIP" = "الحالة الاجتماعية";
+/* Alert shown when email field left empty */
+"EMAIL_ALERT" = "رجاءا أدخل بريدك الإلكتروني!";
+/* Email login */
+"EMAIL_LOGIN" = "تسجيل الدخول مع البريد الإلكتروني";
+/* Email field placeholder text */
+"EMAIL_PLACEHOLDE" = "البريد الإلكتروني";
+/* Title on Phone number screen */
+"ENTER_PHONE_NUMBER" = "أدخل رقم هاتفك";
+/* Sub title on phone number screen */
+"ENTER_PHONE_NUMBER_SUBTITLE" = "خصوصيتك هي أهم أولوياتنا. سيتم استخدام رقم الهاتف لغرض تحديد الهوية فقط.";
+/* Verification window title */
+"ENTER_VERIFICATION_CODE" = "أدخل رمز التحقق";
+/* FEELS LIKE SPAM */
+"FEELS_LIKE_SPAM" = "يشعر مثل البريد المزعج";
+/* Affinitee has female users in above countries. */
+"FEMALE_USER_INFO" = "لدى Affinitee مستخدمين من الإناث في البلدان المذكورة أعلاه.";
+/* Galery selection title */
+"GALERY_TITLE" = "مكتبة الصور";
+/* Alert shown when gender is empty */
+"GENDER_ALERT" = "الرجاء اختيار جنسك!";
+/* Gender selection Man */
+"GENDER_MAN" = "رجل";
+/* Gender selection other */
+"GENDER_OTHER" = "آخر";
+/* Gender preference */
+"GENDER_PREFERENCE" = "البحث عن";
+/* Gender selection Woman */
+"GENDER_WOMAN" = "النساء";
+/* Habit update view title */
+"HABIT_UPDATE_VIEW_TITLE" = "وأخيرا ، إعداد عاداتك";
+/* her */
+"HER" = "لها";
+/* Hide my profile */
+"HIDE_PROFILE" = "إخفاء ملف التعريف الخاص بي";
+/* him */
+"HIM" = "له";
+/* Hobbies and habbits */
+"HOBBIES_AND_HABITS" = "الهوايات والعادات";
+/* INAPPROPRIATE PHOTOS */
+"INAPPROPRIATE_PHOTOS" = "صور غير مناسبة";
+/* Like info label */
+"LIKE_INFO_LABEL" = "%@ يعجبك بالفعل. الآن يمكنك الدردشة مع %@ !";
+/* Like info label */
+"LIKE_INFO_LABEL_1" = "لإعادة تشغيل هذه المحادثة %@ يجب أن يعجبك.!";
+/* Like info label */
+"LIKE_INFO_LABEL_2" = "لقد أعجبك بالفعل %@ . الآن يمكنك الدردشة مع %@ !";
+/* Like info label */
+"LIKE_INFO_LABEL_3" = "لإعادة التشغيل ، يجب أن تعجبك %@ .";
+/* Location disable info */
+"LOCATION_DISABLE_INFO" = "إذا تم تعطيله ، فلن يتم عرض موقعك في ملفك الشخصي.";
+/* Login button title */
+"LOGIN" = "تسجيل الدخول";
+/* Login page title */
+"LOGIN_TITLE" = "تسجيل الدخول باستخدام البريد الإلكتروني";
+/* Logout */
+"LOGOUT" = "الخروج";
+/* Logout prompt */
+"LOGOUT_PROMPT" = "هل أنت متأكد أنك تريد تسجيل الخروج.؟";
+/* Affinitee has male users in above countries. */
+"MALE_USER_INFO" = "لدى Affinitee مستخدمين ذكور في البلدان المذكورة أعلاه.";
+/* Marijuana habit low value */
+"MARIJUANA_HABIT_LEVEL_0" = "أنا لم تستخدم";
+/* Marijuana habit value 1 */
+"MARIJUANA_HABIT_LEVEL_1" = "نادرا";
+/* Marijuana habit value 2 */
+"MARIJUANA_HABIT_LEVEL_2" = "من حين اخر";
+/* Marijuana habit value 3 */
+"MARIJUANA_HABIT_LEVEL_3" = "فقط عند الشد";
+/* Marijuana habit heigh value */
+"MARIJUANA_HABIT_LEVEL_4" = "المستخدم العادي";
+/* Match alert view subtitle */
+"MATCH_SUBTITLE" = "أنتما مثل بعضكم البعض";
+/* Gender selection Men */
+"MEN" = "رجالي";
+"MODE_OF_TRAVEL" = "ما هو وضعك المفضل للسفر";
+/* All mood */
+"MOOD_ALL" = "الكل";
+/* Bored mood */
+"MOOD_BORED" = "ضجر";
+/* Mood chart */
+"MOOD_CHART" = "مخطط المزاج";
+/* Showing mood chart of people in {country name} */
+"MOOD_CHART_INFO" = "عرض مخطط مزاجي للأشخاص في %@";
+/* Depressed mood */
+"MOOD_DEPRESSED" = "مكتئب";
+/* Energetic mood */
+"MOOD_ENERGETIC" = "نشيط";
+/* Lonely mood */
+"MOOD_LONELY" = "وحيد";
+/* Moode preference */
+"MOOD_PREFERENCE" = "مزاج";
+/* Romantic mood */
+"MOOD_ROMANTIC" = "رومانسي";
+/* Update your mood */
+"MOOD_UPDATE" = "تحديث حالتك المزاجية";
+/* mood selection view subtitle */
+"MOOD_UPDATE_VIEW_SUBTITLE" = "سوف مزاج مساعدتك في الحصول على مباريات مثالية.";
+/* mood selection view title */
+"MOOD_UPDATE_VIEW_TITLE" = "يرجى اختيار حالتك المزاجية";
+/* Direct Messages */
+"MY_DIRECT_MESSAGES" = "رسالة مباشرة";
+/* Who liked me */
+"MY_LIKES" = "يحب لي";
+/* Matches */
+"MY_MATCHES" = "اعواد الكبريت";
+/* Alert shown when Name is empty */
+"NAME_ALERT" = "من فضلك أدخل إسمك.!";
+/* Name field placeholder text */
+"NAME_PLACEHOLDER" = "اسم";
+/* New Match */
+"NEW_MATCH" = "مباراة جديدة";
+/* New Message */
+"NEW_MESSAGE" = "رسالة جديدة";
+/* Next button title */
+"NEXT" = "التالى";
+/* Alert shown when no image is chosen */
+"NO_IMAGE_ALERT" = "يرجى اختيار صورة للملف الشخصي!";
+/* Alert shown when mood is empty */
+"NO_MOOD_ALERT" = "يرجى اختيار مزاج!";
+
+
+/* Open settings */
+"OPEN_SETTINGS" = "أفتح الإعدادات";
+/* Affinitee has other users in above countries. */
+"OTHER_USER_INFO" = "Affinitee لديه مستخدمين آخرين في البلدان المذكورة أعلاه.";
+/* Party habit low value */
+"PARTY_HABIT_LEVEL_0" = "لا أحب الأطراف";
+/* Party habit value 1 */
+"PARTY_HABIT_LEVEL_1" = "التجمعات العائلية فقط";
+/* Party habit value 2 */
+"PARTY_HABIT_LEVEL_2" = "من حين اخر";
+/* Party habit value 3 */
+"PARTY_HABIT_LEVEL_3" = "مرة في الشهر";
+/* Party habit heigh value */
+"PARTY_HABIT_LEVEL_4" = "كل نهاية اسبوع";
+/* Alert shown when password field left empty */
+"PASSWORD_ALERT" = "من فضلك أدخل رقمك السري.!";
+/* Alert shown when passwords don't match */
+"PASSWORD_MISMATCH_ALERT" = "كلمات المرور غير متطابقة.";
+/* Password field placeholder text */
+"PASSWORD_PLACEHOLDE" = "كلمه السر";
+/* Phone login */
+"PHONE_LOGIN" = "تسجيل الدخول باستخدام رقم الهاتف";
+/* If disabled your phone model {phone model} will not be shown in your profile. */
+"PHONE_MODEL_DISABLE_INFO" = "إذا تم تعطيله ، فلن يتم عرض طراز هاتفك %@ في ملفك الشخصي.";
+/* Alert shown when phone number is empty */
+"PHONE_NUMBER_ALERT" = "يرجى إدخال رقم الهاتف الخاص بك.!";
+/* Phone number field placeholder text */
+"PHONE_NUMBER_PLACEHOLDE" = "رقم الهاتف";
+/* A verification code has benn send to {users phone number} */
+"PHONE_NUMBER_VERIFICATION_SUBTITLE" = "يتم إرسال رمز التحقق إلى %@";
+/* Inappropriate photos will be removed. */
+"PHOTO_WARNING" = "ستتم إزالة الصور غير اللائقة.";
+/* Privacy Policy */
+"PRIVACY_POLICY" = "سياسة خاصة";
+/* Profile creation page subtitle */
+"PROFILE_CREATION_SUBTITLE" = "نريد أن نعرف أنك أفضل. لا تقلق ، يمكنك تعديل هذا لاحقًا.";
+/* Profile creation page title */
+"PROFILE_CREATION_TITLE" = "لنقم بإنشاء ملف التعريف الجديد الخاص بك";
+/* Phone model disable info */
+"PROFILE_DISABLE_INFO" = "إذا تم تمكينه ، فلن يتم عرض ملفك التعريفي في حزمة البطاقات.";
+/* Profile image selection view info label */
+"PROFILE_IMAGE_VIEW_INFO" = "يمكنك إضافة المزيد من الصور في وقت لاحق.";
+/* Profile image selection view subtitle */
+"PROFILE_IMAGE_VIEW_SUBTITLE" = "حان الوقت لإظهار أفضل ما لديك النفس! تحديث صورة الملف الشخصي.";
+/* Profile image selection view title */
+"PROFILE_IMAGE_VIEW_TITLE" = "دع الناس يرونك!";
+/* Profile match */
+"PROFILE_MATCH" = "ملف تعريف المباراة";
+/* Reading habit low value */
+"READING_HABIT_LEVEL_0" = "لا تحب";
+/* Reading habit value 1 */
+"READING_HABIT_LEVEL_1" = "نادرا";
+/* Reading habit value 2 */
+"READING_HABIT_LEVEL_2" = "فقط عندما تشعر بالملل";
+/* Reading habit value 3 */
+"READING_HABIT_LEVEL_3" = "خاصة";
+/* Reading habit heigh value */
+"READING_HABIT_LEVEL_4" = "المثقف";
+/* Received */
+"RECEIVED" = "تم الاستلام";
+/* Relationship status */
+"RELATIONSHIP_UPDATE" = "الحالة الاجتماعية";
+/* Report view title */
+"REPORT" = "أبلغ عن";
+/* Report {user name} */
+"REPORT_USER" = "تقرير %@";
+/* Save button title. */
+"SAVE" = "حفظ";
+/* Search preference */
+"SEARCH_PREFERENCE" = "تفضيلات البحث";
+/* Send */
+"SEND" = "إرسال";
+/* Send message */
+"SEND_MESSAGE" = "أرسل رسالة";
+/* Settings */
+"SETTINGS" = "الإعدادات";
+/* Show my location */
+"SHOW_LOCATION" = "عرض موقعي";
+/* Show my phone model */
+"SHOW_PHONE_MODEL" = "عرض طراز هاتفي";
+/* Sign up button title */
+"SIGN_UP" = "سجل";
+/* Sign up page title */
+"SIGN_UP_TITLE" = "سجل هنا";
+/* Smoking habit low value */
+"SMOKING_HABIT_LEVEL_0" = "لا تدخن";
+/* Smoking habit value 1 */
+"SMOKING_HABIT_LEVEL_1" = "من حين اخر";
+/* Smoking habit value 2 */
+"SMOKING_HABIT_LEVEL_2" = "يدخن بعد المشروبات";
+/* Smoking habit value 3 */
+"SMOKING_HABIT_LEVEL_3" = "الدخان عند الشد";
+/* Smoking habit heigh value */
+"SMOKING_HABIT_LEVEL_4" = "عادة التدخين";
+/* SMS Code field placeholder text */
+"SMS_CODE_PLACEHOLDE" = "رمز الرسائل القصيرة";
+/* Relationship status It's complecated */
+"STATUS_COMPLICATED" = "انها معقدة";
+/* Relationship status Divorced */
+"STATUS_DIVORCED" = "مطلقة";
+/* Relationship status In a relationship */
+"STATUS_IN_RELATIONSHIP" = "فى علاقة";
+/* Relationship status Married */
+"STATUS_MARRIED" = "زوجت";
+/* Relationship status In an open relationship */
+"STATUS_OPEN_RELATIONSHIP" = "فى علاقة مفتوحة";
+/* Relationship status Separeted */
+"STATUS_SEPARATED" = "فصل";
+/* Relationship status single */
+"STATUS_SINGLE" = "غير مرتبطة";
+/* Relationship status Widowed */
+"STATUS_WIDOWED" = "الأرامل";
+/* Terms of Service */
+"TERMS" = "شروط الخدمة";
+/* Travel habit low value */
+"TRAVEL_HABIT_LEVEL_0" = "لا أحب السفر";
+/* Travel habit value 1 */
+"TRAVEL_HABIT_LEVEL_1" = "مثل السفر في بعض الأحيان";
+/* Travel habit value 2 */
+"TRAVEL_HABIT_LEVEL_2" = "يسافر وحيدا";
+/* Travel habit value 3 */
+"TRAVEL_HABIT_LEVEL_3" = "السفر مع الأصدقاء";
+/* Travel habit heigh value */
+"TRAVEL_HABIT_LEVEL_4" = "معظمهم يسافرون حول العالم";
+/* Travel mode */
+"TRAVEL_MODE" = "وضع السفر";
+/* I can't pay for my self */
+"TRAVEL_TYPE_0" = "لا أستطيع الدفع لنفسي";
+"TRAVEL_TYPE_0_INFO" = "هذا يعني أنك غير قادر على تحمل نفقات السفر الخاصة بك.";
+/* I can pay for my self */
+"TRAVEL_TYPE_1" = "أستطيع أن أدفع لنفسي";
+"TRAVEL_TYPE_1_INFO" = "هذا يعني أنك تدفع فقط نفقات السفر الخاصة بك.";
+/* I can pay for both */
+"TRAVEL_TYPE_2" = "أستطيع أن أدفع لكليهما";
+"TRAVEL_TYPE_2_INFO" = "هذا يعني أنه يمكنك الدفع للشخص الذي يرغب في السفر معك.";
+"TYPE_OF_TRAVELLER" = "أي نوع من السفر أنت؟";
+/* Update button title */
+"UPDATE_BUTTON_TITLE" = "تحديث";
+/* Subtitle for update search preference */
+"UPDATE_PREFERENCE_SUB_TITLE" = "نصيحة: تغيير البلد أو تغيير تفضيل المزاج للجميع";
+/* Title for update search preference */
+"UPDATE_PREFERENCE_TITLE" = "لا يوجد أحد من حولك. قم بتحديث تفضيلات البحث لرؤية المزيد من الأشخاص.";
+/* Verify button title */
+"VERIFY_BUTTON_TITLE" = "التحقق";
+/* View profile */
+"VIEW_PROFILE" = "عرض الصفحة الشخصية";
+/* want to visit */
+"WANT_TO_VISIT" = "تريد زيارته";
+/* Welcome not to be displayed when app opens for the first time */
+"WELCOME_NOTE" = "بداية \
+ك \
+مغامرة";
+/* Workout habit low value */
+"WORKOUT_HABIT_LEVEL_0" = "لا تجريب";
+/* Workout habit value 1 */
+"WORKOUT_HABIT_LEVEL_1" = "تجريب في بعض الأحيان";
+/* Workout habit value 2 */
+"WORKOUT_HABIT_LEVEL_2" = "عادة ما يذهب إلى صالة الألعاب الرياضية";
+/* Workout habit value 3 */
+"WORKOUT_HABIT_LEVEL_3" = "تجريب بانتظام";
+/* Workout habit heigh value */
+"WORKOUT_HABIT_LEVEL_4" = "لاعب كمال اجسام محترف";
+
+"UNAVAILABLE" = "غير متوفره";
+
+"INVITE" = "أدع صديقا";
+
+"LAST_SEEN" = "اخر ظهور";
+
+"RECENTLY" = "مؤخرا";
+
+"ONLINE" = "عبر الانترنت";
+
+"DM_TITLE" = "إرسال رسالة خاصة إلى";
+
+//...........
+
+"DRINK_HABIT" = "الكحول";
+
+"SMOKING_HABIT" = "التدخين";
+
+"WEED_HABIT" = "قنب هندي";
+
+"TRAVEL_HABIT" = "السفر";
+
+"PARTY_HABIT" = "حفل";
+
+"GYM_HABIT" = "الجمنازيوم";
+
+"COOKING_HABIT" = "طبخ";
+
+"READING_HABIT" = "قراءة";
+

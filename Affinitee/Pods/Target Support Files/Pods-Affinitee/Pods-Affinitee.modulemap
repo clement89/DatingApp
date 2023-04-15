@@ -1,0 +1,6 @@
+framework module Pods_Affinitee {
+  umbrella header "Pods-Affinitee-umbrella.h"
+
+  export *
+  module * { export * }
+}

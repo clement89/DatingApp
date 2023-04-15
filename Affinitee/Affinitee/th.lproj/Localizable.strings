@@ -1,0 +1,407 @@
+/* 
+  Localizable.strings
+  Affinitee
+
+  Created by Clement Joseph on 17/06/19.
+  Copyright © 2019 Affinitee Limited. All rights reserved.
+*/
+
+
+/* About */
+"ABOUT" = "เกี่ยวกับ";
+"ADD_LOCATION" = "เพิ่มสถานที่";
+/* Birthday field placeholder text */
+"BIRTHDAY_PLACEHOLDER" = "วันเกิด";
+/* Blocked */
+"BLOCKED" = "อุดตัน";
+/* BLOCK USER */
+"BLOCK_USER" = "กีดกันผู้ใช้";
+/* Camra selection title */
+"CAMERA_TITLE" = "กล้อง";
+/* Cancel button title */
+"CANCEL" = "ยกเลิก";
+
+
+/* Choose a Country */
+"CHOOSE_COUNTRY" = "เลือกประเทศ";
+/* Choose a mood */
+"CHOOSE_MOOD" = "เลือกอารมณ์";
+/* Clear chat conversation */
+"CLEAR_CONVERSATION" = "บทสนทนาที่ชัดเจน";
+/* {number of hobbies} in common */
+"COMMON_HABITS" = "เหมือนกัน %lu";
+/* Confirm */
+"CONFIRM" = "ยืนยัน";
+/* Alert shown when confirm password left empty */
+"CONFIRM_PASSWORD_ALERT" = "กรุณายืนยันรหัสผ่านของคุณ!";
+/* Confirm Password field placeholder text */
+"CONFIRM_PASSWORD_PLACEHOLDE" = "ยืนยันรหัสผ่าน";
+/* Continue button title */
+"CONTINUE_BUTTON_TITLE" = "ดำเนินการต่อ";
+/* Cooking habit low value */
+"COOKING_HABIT_LEVEL_0" = "ฉันยังไม่ได้ปรุง";
+/* Cooking habit value 1 */
+"COOKING_HABIT_LEVEL_1" = "เรียนรู้ที่จะปรุงอาหาร";
+/* Cooking habit value 2 */
+"COOKING_HABIT_LEVEL_2" = "บางครั้ง";
+/* Cooking habit value 3 */
+"COOKING_HABIT_LEVEL_3" = "มักจะลองอาหารจานใหม่";
+/* Cooking habit heigh value */
+"COOKING_HABIT_LEVEL_4" = "พ่อครัวมืออาชีพ";
+/* Alert shown when country code left empty */
+"COUNTRY_CODE_ALERT" = "กรุณาเลือกประเทศของคุณ!";
+/* Country preference */
+"COUNTRY_PREFERENCE" = "ประเทศ";
+/* Create new account button title */
+"CREATE_ACCOUNT_TITLE" = "ยังไม่มีบัญชีใช่ไหม สมัครที่นี่";
+/* Delete */
+"DELETE" = "ลบ";
+/* Delete account prompt */
+"DELETE_ACCOUNT_PROMPT" = "คุณแน่ใจหรือว่าต้องการลบบัญชี";
+/* Delete account */
+"DELETE_ACCUNT" = "ลบบัญชี";
+/* Delete chat */
+"DELETE_CONVERSATION" = "ลบบทสนทนา";
+/* Dismiss button title */
+"DISMISS" = "DISMISS";
+/* Alert shown when birthday is empty */
+"DOB_ALERT" = "กรุณาใส่วันเกิดของคุณ!";
+/* Done button title */
+"DONE_BUTTON_TITLE" = "เสร็จสิ้น";
+/* Drinking habit low value */
+"DRINKING_HABIT_LEVEL_0" = "อย่าดื่ม";
+/* Drinking habit value 1 */
+"DRINKING_HABIT_LEVEL_1" = "ไม่ค่อยมี";
+/* Drinking habit value 2 */
+"DRINKING_HABIT_LEVEL_2" = "เป็นครั้งคราว";
+/* Drinking habit value 3 */
+"DRINKING_HABIT_LEVEL_3" = "เมื่อเกร็งแล้วเท่านั้น";
+/* Drinking habit heigh value */
+"DRINKING_HABIT_LEVEL_4" = "มักจะดื่ม";
+/* Edit bio */
+"EDIT_BIO" = "เกี่ยวกับฉัน";
+/* Edit birthday */
+"EDIT_BIRTHDAY" = "วันเกิด";
+/* Edit company */
+"EDIT_COMPANY" = "บริษัท";
+/* Edit gender */
+"EDIT_GENDER" = "ฉัน";
+/* Edit job */
+"EDIT_JOB" = "ชื่องาน";
+/* Edit name */
+"EDIT_NAME" = "ชื่อของฉัน";
+/* Edit relationship */
+"EDIT_RELATIONSHIP" = "สถานะความสัมพันธ์";
+/* Alert shown when email field left empty */
+"EMAIL_ALERT" = "กรุณาใส่อีเมลของคุณ!";
+/* Email login */
+"EMAIL_LOGIN" = "เข้าสู่ระบบด้วยอีเมล";
+/* Email field placeholder text */
+"EMAIL_PLACEHOLDE" = "อีเมล์";
+/* Title on Phone number screen */
+"ENTER_PHONE_NUMBER" = "ป้อนหมายเลขโทรศัพท์ของคุณ";
+/* Sub title on phone number screen */
+"ENTER_PHONE_NUMBER_SUBTITLE" = "ความเป็นส่วนตัวของคุณคือสิ่งสำคัญที่สุดของเรา หมายเลขโทรศัพท์จะถูกใช้เพื่อจุดประสงค์ในการระบุตัวตนเท่านั้น";
+/* Verification window title */
+"ENTER_VERIFICATION_CODE" = "ใส่รหัสยืนยัน";
+/* FEELS LIKE SPAM */
+"FEELS_LIKE_SPAM" = "รู้สึกเหมือนจดหมายขยะ";
+/* Affinitee has female users in above countries. */
+"FEMALE_USER_INFO" = "Affinitee มีผู้ใช้เพศหญิงในประเทศข้างต้น";
+/* Galery selection title */
+"GALERY_TITLE" = "ห้องสมุดภาพถ่าย";
+/* Alert shown when gender is empty */
+"GENDER_ALERT" = "โปรดเลือกเพศของคุณ!";
+/* Gender selection Man */
+"GENDER_MAN" = "ชาย";
+/* Gender selection other */
+"GENDER_OTHER" = "อื่น ๆ";
+/* Gender preference */
+"GENDER_PREFERENCE" = "กำลังมองหา";
+/* Gender selection Woman */
+"GENDER_WOMAN" = "ผู้หญิง";
+/* Habit update view title */
+"HABIT_UPDATE_VIEW_TITLE" = "ในที่สุดตั้งค่านิสัยของคุณ";
+/* her */
+"HER" = "เธอ";
+/* Hide my profile */
+"HIDE_PROFILE" = "ซ่อนโปรไฟล์ของฉัน";
+/* him */
+"HIM" = "เขา";
+/* Hobbies and habbits */
+"HOBBIES_AND_HABITS" = "งานอดิเรก & นิสัย";
+/* INAPPROPRIATE PHOTOS */
+"INAPPROPRIATE_PHOTOS" = "ภาพถ่ายที่ไม่สมบูรณ์";
+/* Like info label */
+"LIKE_INFO_LABEL" = "%@ ได้ชอบคุณกลับมาแล้ว ตอนนี้คุณสามารถแชทกับ %@ !";
+/* Like info label */
+"LIKE_INFO_LABEL_1" = "หากต้องการเล่นบทสนทนานี้ %@ จะต้องชอบคุณ!";
+/* Like info label */
+"LIKE_INFO_LABEL_2" = "คุณชอบ %@ ตอนนี้คุณสามารถแชทกับ %@ !";
+/* Like info label */
+"LIKE_INFO_LABEL_3" = "ในการเล่นซ้ำคุณต้องชอบ %@";
+/* Location disable info */
+"LOCATION_DISABLE_INFO" = "หากปิดใช้งานตำแหน่งของคุณจะไม่ปรากฏในโปรไฟล์ของคุณ";
+/* Login button title */
+"LOGIN" = "เข้าสู่ระบบ";
+/* Login page title */
+"LOGIN_TITLE" = "เข้าสู่ระบบโดยใช้อีเมล";
+/* Logout */
+"LOGOUT" = "ออกจากระบบ";
+/* Logout prompt */
+"LOGOUT_PROMPT" = "คุณแน่ใจว่าคุณต้องการที่จะออกจากระบบ.?";
+/* Affinitee has male users in above countries. */
+"MALE_USER_INFO" = "Affinitee มีผู้ใช้เพศชายในประเทศข้างต้น";
+/* Marijuana habit low value */
+"MARIJUANA_HABIT_LEVEL_0" = "ฉันไม่ได้ใช้";
+/* Marijuana habit value 1 */
+"MARIJUANA_HABIT_LEVEL_1" = "ไม่ค่อยมี";
+/* Marijuana habit value 2 */
+"MARIJUANA_HABIT_LEVEL_2" = "เป็นครั้งคราว";
+/* Marijuana habit value 3 */
+"MARIJUANA_HABIT_LEVEL_3" = "เมื่อเกร็งแล้วเท่านั้น";
+/* Marijuana habit heigh value */
+"MARIJUANA_HABIT_LEVEL_4" = "ผู้ใช้ปกติ";
+/* Match alert view subtitle */
+"MATCH_SUBTITLE" = "คุณทั้งคู่ต่างก็ชอบกัน";
+/* Gender selection Men */
+"MEN" = "ชาย";
+"MODE_OF_TRAVEL" = "โหมดการเดินทางที่คุณชื่นชอบคืออะไร";
+/* All mood */
+"MOOD_ALL" = "ทั้งหมด";
+/* Bored mood */
+"MOOD_BORED" = "เบื่อ";
+/* Mood chart */
+"MOOD_CHART" = "แผนภูมิอารมณ์";
+/* Showing mood chart of people in {country name} */
+"MOOD_CHART_INFO" = "แสดงผังอารมณ์ของผู้คนใน %@";
+/* Depressed mood */
+"MOOD_DEPRESSED" = "ตกต่ำ";
+/* Energetic mood */
+"MOOD_ENERGETIC" = "กระปรี้กระเปร่า";
+/* Lonely mood */
+"MOOD_LONELY" = "เหงา";
+/* Moode preference */
+"MOOD_PREFERENCE" = "อารมณ์";
+/* Romantic mood */
+"MOOD_ROMANTIC" = "โรแมนติก";
+/* Update your mood */
+"MOOD_UPDATE" = "อัพเดทอารมณ์ของคุณ";
+/* mood selection view subtitle */
+"MOOD_UPDATE_VIEW_SUBTITLE" = "อารมณ์จะช่วยให้คุณได้รับการแข่งขันที่สมบูรณ์แบบ";
+/* mood selection view title */
+"MOOD_UPDATE_VIEW_TITLE" = "กรุณาเลือกอารมณ์ของคุณ";
+/* Direct Messages */
+"MY_DIRECT_MESSAGES" = "ข้อความโดยตรง";
+/* Who liked me */
+"MY_LIKES" = "ที่ฉันชอบ";
+/* Matches */
+"MY_MATCHES" = "ไม้ขีด";
+/* Alert shown when Name is empty */
+"NAME_ALERT" = "กรุณากรอกชื่อของคุณ.!";
+/* Name field placeholder text */
+"NAME_PLACEHOLDER" = "ชื่อ";
+/* New Match */
+"NEW_MATCH" = "การแข่งขันใหม่";
+/* New Message */
+"NEW_MESSAGE" = "ข้อความใหม่";
+/* Next button title */
+"NEXT" = "ต่อไป";
+/* Alert shown when no image is chosen */
+"NO_IMAGE_ALERT" = "กรุณาเลือกรูปโปรไฟล์!";
+/* Alert shown when mood is empty */
+"NO_MOOD_ALERT" = "กรุณาเลือกอารมณ์!";
+
+
+/* Open settings */
+"OPEN_SETTINGS" = "เปิดการตั้งค่า";
+/* Affinitee has other users in above countries. */
+"OTHER_USER_INFO" = "Affinitee มีผู้ใช้อื่น ๆ ในประเทศข้างต้น";
+/* Party habit low value */
+"PARTY_HABIT_LEVEL_0" = "ไม่ชอบปาร์ตี้";
+/* Party habit value 1 */
+"PARTY_HABIT_LEVEL_1" = "การชุมนุมในครอบครัวเท่านั้น";
+/* Party habit value 2 */
+"PARTY_HABIT_LEVEL_2" = "เป็นครั้งคราว";
+/* Party habit value 3 */
+"PARTY_HABIT_LEVEL_3" = "เดือนละครั้ง";
+/* Party habit heigh value */
+"PARTY_HABIT_LEVEL_4" = "ทุกสุดสัปดาห์";
+/* Alert shown when password field left empty */
+"PASSWORD_ALERT" = "กรุณาใส่รหัสผ่านของคุณ.!";
+/* Alert shown when passwords don't match */
+"PASSWORD_MISMATCH_ALERT" = "รหัสผ่านไม่ตรงกัน!";
+/* Password field placeholder text */
+"PASSWORD_PLACEHOLDE" = "รหัสผ่าน";
+/* Phone login */
+"PHONE_LOGIN" = "เข้าสู่ระบบด้วยหมายเลขโทรศัพท์";
+/* If disabled your phone model {phone model} will not be shown in your profile. */
+"PHONE_MODEL_DISABLE_INFO" = "หากปิดใช้งานรุ่นโทรศัพท์ของคุณ %@ จะไม่ปรากฏในโปรไฟล์ของคุณ";
+/* Alert shown when phone number is empty */
+"PHONE_NUMBER_ALERT" = "กรุณาใส่หมายเลขโทรศัพท์ของคุณ!";
+/* Phone number field placeholder text */
+"PHONE_NUMBER_PLACEHOLDE" = "หมายเลขโทรศัพท์";
+/* A verification code has benn send to {users phone number} */
+"PHONE_NUMBER_VERIFICATION_SUBTITLE" = "รหัสยืนยันถูกส่งไปยัง %@";
+/* Inappropriate photos will be removed. */
+"PHOTO_WARNING" = "รูปภาพที่ไม่เหมาะสมจะถูกลบออก";
+/* Privacy Policy */
+"PRIVACY_POLICY" = "นโยบายความเป็นส่วนตัว";
+/* Profile creation page subtitle */
+"PROFILE_CREATION_SUBTITLE" = "เราต้องการรู้จักคุณมากขึ้น ไม่ต้องกังวลคุณสามารถแก้ไขได้ในภายหลัง";
+/* Profile creation page title */
+"PROFILE_CREATION_TITLE" = "มาสร้างโปรไฟล์ใหม่กันเถอะ";
+/* Phone model disable info */
+"PROFILE_DISABLE_INFO" = "หากเปิดใช้งานโปรไฟล์ของคุณจะไม่ปรากฏในสแต็กการ์ด";
+/* Profile image selection view info label */
+"PROFILE_IMAGE_VIEW_INFO" = "คุณสามารถเพิ่มภาพได้ในภายหลัง";
+/* Profile image selection view subtitle */
+"PROFILE_IMAGE_VIEW_SUBTITLE" = "ได้เวลาแสดงตัวตนที่ดีที่สุดของคุณแล้ว! อัปเดตรูปภาพโปรไฟล์";
+/* Profile image selection view title */
+"PROFILE_IMAGE_VIEW_TITLE" = "ให้ทุกคนเห็นคุณ!";
+/* Profile match */
+"PROFILE_MATCH" = "การแข่งขันโปรไฟล์";
+/* Reading habit low value */
+"READING_HABIT_LEVEL_0" = "ไม่ชอบ";
+/* Reading habit value 1 */
+"READING_HABIT_LEVEL_1" = "ไม่ค่อยมี";
+/* Reading habit value 2 */
+"READING_HABIT_LEVEL_2" = "เมื่อเบื่อเท่านั้น";
+/* Reading habit value 3 */
+"READING_HABIT_LEVEL_3" = "ส่วนใหญ่";
+/* Reading habit heigh value */
+"READING_HABIT_LEVEL_4" = "หนอนหนังสือ";
+/* Received */
+"RECEIVED" = "รับ";
+/* Relationship status */
+"RELATIONSHIP_UPDATE" = "สถานะความสัมพันธ์";
+/* Report view title */
+"REPORT" = "รายงาน";
+/* Report {user name} */
+"REPORT_USER" = "รายงาน %@";
+/* Save button title. */
+"SAVE" = "บันทึก";
+/* Search preference */
+"SEARCH_PREFERENCE" = "การตั้งค่าการค้นหา";
+/* Send */
+"SEND" = "ส่ง";
+/* Send message */
+"SEND_MESSAGE" = "ส่งข้อความ";
+/* Settings */
+"SETTINGS" = "การตั้งค่า";
+/* Show my location */
+"SHOW_LOCATION" = "แสดงตำแหน่งของฉัน";
+/* Show my phone model */
+"SHOW_PHONE_MODEL" = "แสดงรุ่นโทรศัพท์ของฉัน";
+/* Sign up button title */
+"SIGN_UP" = "ลงชื่อ";
+/* Sign up page title */
+"SIGN_UP_TITLE" = "ลงทะเบียนที่นี่";
+/* Smoking habit low value */
+"SMOKING_HABIT_LEVEL_0" = "ไม่สูบบุหรี่";
+/* Smoking habit value 1 */
+"SMOKING_HABIT_LEVEL_1" = "เป็นครั้งคราว";
+/* Smoking habit value 2 */
+"SMOKING_HABIT_LEVEL_2" = "สูบบุหรี่หลังดื่ม";
+/* Smoking habit value 3 */
+"SMOKING_HABIT_LEVEL_3" = "สูบบุหรี่เมื่อเกร็ง";
+/* Smoking habit heigh value */
+"SMOKING_HABIT_LEVEL_4" = "มักจะสูบบุหรี่";
+/* SMS Code field placeholder text */
+"SMS_CODE_PLACEHOLDE" = "รหัส SMS";
+/* Relationship status It's complecated */
+"STATUS_COMPLICATED" = "มันซับซ้อน";
+/* Relationship status Divorced */
+"STATUS_DIVORCED" = "หย่าร้าง";
+/* Relationship status In a relationship */
+"STATUS_IN_RELATIONSHIP" = "มีความสัมพันธ์";
+/* Relationship status Married */
+"STATUS_MARRIED" = "แต่งงาน";
+/* Relationship status In an open relationship */
+"STATUS_OPEN_RELATIONSHIP" = "อยู่ในความสัมพันธ์แบบเปิดเผย";
+/* Relationship status Separeted */
+"STATUS_SEPARATED" = "แยกออกจากกัน";
+/* Relationship status single */
+"STATUS_SINGLE" = "เดียว";
+/* Relationship status Widowed */
+"STATUS_WIDOWED" = "เป็นม่าย";
+/* Terms of Service */
+"TERMS" = "เงื่อนไขการให้บริการ";
+/* Travel habit low value */
+"TRAVEL_HABIT_LEVEL_0" = "ไม่ชอบท่องเที่ยว";
+/* Travel habit value 1 */
+"TRAVEL_HABIT_LEVEL_1" = "ชอบที่จะเดินทางบางครั้ง";
+/* Travel habit value 2 */
+"TRAVEL_HABIT_LEVEL_2" = "เดินทางคนเดียว";
+/* Travel habit value 3 */
+"TRAVEL_HABIT_LEVEL_3" = "เดินทางกับเพื่อน";
+/* Travel habit heigh value */
+"TRAVEL_HABIT_LEVEL_4" = "ส่วนใหญ่เดินทางรอบโลก";
+/* Travel mode */
+"TRAVEL_MODE" = "โหมดการเดินทาง";
+/* I can't pay for my self */
+"TRAVEL_TYPE_0" = "ฉันไม่สามารถจ่ายค่าตัวเองได้";
+"TRAVEL_TYPE_0_INFO" = "ซึ่งหมายความว่าคุณไม่สามารถรับค่าใช้จ่ายในการเดินทางได้";
+/* I can pay for my self */
+"TRAVEL_TYPE_1" = "ฉันสามารถจ่ายเอง";
+"TRAVEL_TYPE_1_INFO" = "ซึ่งหมายความว่าคุณจ่ายค่าใช้จ่ายในการเดินทางเท่านั้น";
+/* I can pay for both */
+"TRAVEL_TYPE_2" = "ฉันสามารถจ่ายได้ทั้งคู่";
+"TRAVEL_TYPE_2_INFO" = "ซึ่งหมายความว่าคุณสามารถจ่ายเงินสำหรับผู้ที่ต้องการเดินทางไปกับคุณ";
+"TYPE_OF_TRAVELLER" = "คุณเป็นนักเดินทางประเภทไหน?";
+/* Update button title */
+"UPDATE_BUTTON_TITLE" = "ปรับปรุง";
+/* Subtitle for update search preference */
+"UPDATE_PREFERENCE_SUB_TITLE" = "เคล็ดลับ: เปลี่ยนประเทศหรือเปลี่ยนการตั้งค่าอารมณ์เป็นทั้งหมด";
+/* Title for update search preference */
+"UPDATE_PREFERENCE_TITLE" = "ไม่มีใครอยู่รอบตัวคุณ อัปเดตการตั้งค่าการค้นหาของคุณเพื่อดูผู้คนมากขึ้น";
+/* Verify button title */
+"VERIFY_BUTTON_TITLE" = "ตรวจสอบ";
+/* View profile */
+"VIEW_PROFILE" = "ดูประวัติ";
+/* want to visit */
+"WANT_TO_VISIT" = "อยากไปเที่ยว";
+/* Welcome not to be displayed when app opens for the first time */
+"WELCOME_NOTE" = "เริ่มต้น \
+ของคุณ \
+การผจญภัย";
+/* Workout habit low value */
+"WORKOUT_HABIT_LEVEL_0" = "อย่าออกกำลังกาย";
+/* Workout habit value 1 */
+"WORKOUT_HABIT_LEVEL_1" = "ออกกำลังกายบางครั้ง";
+/* Workout habit value 2 */
+"WORKOUT_HABIT_LEVEL_2" = "มักไปยิม";
+/* Workout habit value 3 */
+"WORKOUT_HABIT_LEVEL_3" = "ออกกำลังกายเป็นประจำ";
+/* Workout habit heigh value */
+"WORKOUT_HABIT_LEVEL_4" = "นักเพาะกายมืออาชีพ";
+
+"UNAVAILABLE" = "ไม่มี";
+
+"INVITE" = "เชิญเพื่อน";
+
+"LAST_SEEN" = "เห็นครั้งสุดท้าย";
+
+"RECENTLY" = "เมื่อเร็ว ๆ นี้";
+
+"ONLINE" = "ออนไลน์";
+
+"DM_TITLE" = "ส่งข้อความโดยตรงไปที่";
+
+//...........
+
+"DRINK_HABIT" = "เหล้า";
+
+"SMOKING_HABIT" = "ที่สูบบุหรี่";
+
+"WEED_HABIT" = "กัญชา";
+
+"TRAVEL_HABIT" = "เดินทาง";
+
+"PARTY_HABIT" = "พรรค";
+
+"GYM_HABIT" = "ยิม";
+
+"COOKING_HABIT" = "การปรุงอาหาร";
+
+"READING_HABIT" = "การอ่านหนังสือ";
